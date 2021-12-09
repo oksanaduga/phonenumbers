@@ -1,3 +1,2 @@
 # phonenumbers
-back npm start. 
-front cd frontend npm start
+back npm start <br />front cd frontend npm start
